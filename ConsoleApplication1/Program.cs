@@ -7,7 +7,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)                                                             
         {
-            int granica = Convert.ToInt32(Console.ReadLine()),                                      
+            int granica = Convert.ToInt32(Console.ReadLine()),                                   
                 counterProbelov = granica,                                                          
                 dGranica = (2 * granica) - 1;
 
